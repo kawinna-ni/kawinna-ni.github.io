@@ -49,7 +49,7 @@ Projects
 - K. Nipatphonsakun, T. Kawasetsu, and K. Hosoda, “The experimental investigation of foot slip-turning motion of the musculoskeletal robot on toe joints,” _Frontiers in Robotics and Artificial Intelligence_, vol. 10, August 29, 2023, [DOI](https://doi.org/10.3389/frobt.2023.1187297).
 - K. Nipatphonsakun, T. Kawasetsu, and K. Hosoda, “Bio-inspired Musculoskeletal Robotics Foot with Toe Joint and Plantar Intrinsic Muscle in Tiptoe Motion,” _11th International Symposium on Adaptive Motion of Animals and Machines (AMAM2023)_, Kobe, Japan, June 6–9, 2023, pp. 120–121, [DOI](https://doi.org/10.18910/92297).
 
-### Machine Vision, Automation & Mechatronics (2017-2019), 
+### Machine Vision, Automation & Mechatronics (2017-2019) 
 
 - [Industrial projects](_projects/project-industry.md)
 
