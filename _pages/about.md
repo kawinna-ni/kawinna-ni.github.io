@@ -51,7 +51,7 @@ Projects
 
 ### Machine Vision, Automation & Mechatronics (2017-2019) 
 
-- [Industrial projects](_projects/project-industry.md)
+- [Industrial projects](_projects/project-industry)
 
 
  
