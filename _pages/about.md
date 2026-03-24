@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Human-Centered Assistive Robotics Researcher and Postdoctoral Researcher at Kanazawa University. My work focuses on developing robotic technologies designed to support people in their activities of daily living and improve independence and quality of life. My research spans soft wearable robotics, assistive devices, humanoid-inspired systems, and bio-inspired robotic mechanisms, with an emphasis on safe and intuitive human interaction.
+I am a human-centered assistive robotics researcher and postdoctoral researcher at Kanazawa University. My work focuses on developing robotic technologies designed to support people in their activities of daily living and improve independence and quality of life. My research spans soft wearable robotics, assistive devices, humanoid-inspired systems, and bio-inspired robotic mechanisms, with an emphasis on safe and intuitive human interaction.
 
 I received my Ph.D. in Engineering from Osaka University, where I studied musculoskeletal and humanoid-inspired robotic systems, including investigations of compliant joints and bio-inspired locomotion. My current research explores soft and wearable robotic technologies such as inflatable actuators, textile-based actuators, and variable stiffness mechanisms that can be integrated into everyday garments for assistive applications.
 
