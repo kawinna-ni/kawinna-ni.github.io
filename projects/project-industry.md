@@ -2,7 +2,7 @@
 title: "Industrial Projects"
 excerpt: "Industrial Project Experience"
 collection: projects
-category: research
+category: industrial
 permalink: /projects/project-industry
 ---
 
