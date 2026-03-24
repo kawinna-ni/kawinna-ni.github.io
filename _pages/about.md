@@ -49,13 +49,9 @@ Projects
 - K. Nipatphonsakun, T. Kawasetsu, and K. Hosoda, “The experimental investigation of foot slip-turning motion of the musculoskeletal robot on toe joints,” _Frontiers in Robotics and Artificial Intelligence_, vol. 10, August 29, 2023, [DOI](https://doi.org/10.3389/frobt.2023.1187297).
 - K. Nipatphonsakun, T. Kawasetsu, and K. Hosoda, “Bio-inspired Musculoskeletal Robotics Foot with Toe Joint and Plantar Intrinsic Muscle in Tiptoe Motion,” _11th International Symposium on Adaptive Motion of Animals and Machines (AMAM2023)_, Kobe, Japan, June 6–9, 2023, pp. 120–121, [DOI](https://doi.org/10.18910/92297).
 
-### Machine Vision, Automation & Mechatronics (2017-2019), _Industrial projects_
+### Machine Vision, Automation & Mechatronics (2017-2019), 
 
-- **Smart Factory Traceability System** Developed an IoT-enabled production tracking system linking manufactured parts to a centralized SQL database using LAN communication. The system engraves QR/2D barcodes on each part for traceability, and barcode scanning retrieves production time and associated manufacturing data. The project included barcode reader integration, tuning, and database communication. (2018-2019)
-- **High-Speed Visual Inspection System** Designed and implemented an automated visual inspection system using high-speed cameras integrated into a production line. The work included camera selection, lighting design, environmental adaptation, and real-time inspection under varying factory conditions. (2018-2019)
-- **Machine Learning–Based Quality Inspection** Developed an image-based inspection system using machine learning to distinguish OK and NG products. The system was trained using production data and integrated into the inspection workflow for automated quality control. (2018-2019)
-- **Predictive Maintenance Using Data-Driven Machine Learning** Implemented a data-driven machine learning approach to detect abnormalities in production processes prior to machine failure. The system analyzed operational data to identify early signs of malfunction and support predictive maintenance. (2018)
-- **IoT Device Communication Platform** Developed embedded communication systems using WiFi, Bluetooth, Infrared, and ESP32-based devices for industrial IoT applications. The work focused on device-to-device communication and integration within factory automation systems. (2017)
-- **Factory System API Integration** Designed and implemented system-level API communication for factory automation integration. This work involved defining data exchange structures and coordinating communication between multiple subsystems as a system analyst. (2017)
-- **Smart Assistive Wheelchair Prototype** Developed a smart wheelchair with IMU-based fall prevention and collision avoidance using ultrasonic sensors and fuzzy logic control. The system was integrated with IoT-based remote monitoring including GPS location, heart rate, humidity, and temperature, with cellular-based accident reporting and online dashboard visualization. (2017)
+- Industrial projects
+
+
  
