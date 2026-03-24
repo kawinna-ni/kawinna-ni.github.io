@@ -2,6 +2,7 @@
 title: "Industrial Projects"
 excerpt: "Industrial Project Experience"
 collection: projects
+permalink: /projects/project-industry
 ---
 
 During my industry experience from 2017 to 2019, I worked on machine vision, factory automation, and IoT-based smart manufacturing systems. My projects included developing a smart factory traceability system linking manufactured parts to a SQL database using QR/2D barcode identification, designing high-speed camera–based visual inspection systems for production lines, and implementing machine learning methods for OK/NG classification and abnormality detection for predictive maintenance. I also developed embedded IoT communication systems and designed system-level API communication for automation integration. In addition, I developed a smart assistive wheelchair featuring IMU-based fall prevention, collision avoidance, and IoT-based remote monitoring with GPS and physiological sensing.
