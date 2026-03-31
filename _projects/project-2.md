@@ -1,5 +1,5 @@
 ---
-title: "Shape-Changing Garment with Flat-Tube Fabric Actuator"
+title: "(2025 - Present) Shape-Changing Garment with Flat-Tube Fabric Actuator"
 excerpt: "Development of a soft wearable garment using flat-tube fabric actuators to enable controllable shape change for dressing assistance and adaptable support in daily living. <br/><img src='/images/flattube.png'>"
 collection: projects
 category: research
