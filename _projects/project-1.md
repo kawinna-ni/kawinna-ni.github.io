@@ -3,6 +3,7 @@ title: "Musculoskeletal Robot"
 excerpt: "Design and investigation of bio-inspired musculoskeletal robotic systems with toe joints and compliant mechanisms to study locomotion, stability, and human-like movement. "
 collection: projects
 category: research
+date: 2019-10-01
 ---
 
  <br/> <img src='/images/pneuturn.png'>
