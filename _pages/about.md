@@ -24,13 +24,6 @@ Research Interests
 - Bipedal Locomotion
 - Biomimetics
 
-Education
-------
-1. (Oct, 2021 - Sep, 2024) PhD in Engineering, Department of Systems Innovation, Graduate School of Engineering Science, The University of Osaka, Japan 
-1. (Oct, 2019 - Sep, 2021) Master of Engineering, Department of Systems Innovation, Graduate School of Engineering Science, The University of Osaka, Japan 
-1. (Aug, 2013 - Jul, 2017) Bachelor of Engineering, Department of Mechatronics Engineering, Faculty of Engineering, King Mongkut's University of Technology Thonburi, Thailand
-
-
 Projects
 ------
 
