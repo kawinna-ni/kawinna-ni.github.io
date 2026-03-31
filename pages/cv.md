@@ -29,22 +29,12 @@ sensing systems.
 
 ## <ins>Work experience</ins>
 
-### Research
-
 ### (Jan 2025 - Present) Postdoctoral Researcher, _Kanazawa University_, Japan
   * Job responsibility: Research, design, and development of human-centered assistive wearable
 robotic systems, including soft actuator prototyping, experimental evaluation, student
 mentoring, and research dissemination.
   * Supervisor: Prof. Tetsuyou Watanabe, Human-Machine Innovation Lab.
 
-## Industrial
-
-### (Apr 2018 - Aug 2019) Automation Engineer, _Siam Compressor Industry Co., Ltd._, Thailand
-  * Job responsibility: 
-
-### (Aug 2017 - Mar 2018) Software/Automation Engineer, _Sony Technology (Thailand) Co., Ltd._, Thailand
-  * Job responsibility: 
-  
 
 ## <ins>Publications</ins>
 
@@ -74,6 +64,16 @@ mentoring, and research dissemination.
 * Sensors: IMU, ultrasonic, GPS, high-speed camera integration
 * Control: fuzzy logic control, data acquisition
 * Other: QR/2D barcode systems, remote monitoring systems, basic engineering (drawings/controls/electronics/robotics)
+
+
+## Industrial Experience
+
+### (Apr 2018 - Aug 2019) Automation Engineer, _Siam Compressor Industry Co., Ltd._, Thailand
+  * Job responsibility: 
+
+### (Aug 2017 - Mar 2018) Software/Automation Engineer, _Sony Technology (Thailand) Co., Ltd._, Thailand
+  * Job responsibility: 
+  
 
 ## <ins>Talks</ins>
 
