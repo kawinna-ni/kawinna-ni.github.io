@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-# My goal
+## My goal
 
 To develop human-centered assistive robotic technologies that support activities of daily living,
 leveraging experience in soft wearable robotics, bio-inspired mechanisms, and intelligent
 sensing systems.
 
 
-# Education
+## Education
 
 ### The University of Osaka, Japan
 * (Oct 2021 - Sep 2024) Ph.D in Engineering
@@ -27,10 +27,9 @@ sensing systems.
 ### King Mongkut's University of Technology Thonburi, Thailand
 * (Aug 2013 - Jul 2017) Bachelor of Engineering in Mechatronics - 3.42 GPA
 
-# Work experience
-======
+## Work experience
 
-## Research
+### Research
 
 ### (Jan 2025 - Present) Postdoctoral Researcher, _Kanazawa University_, Japan
   * Job responsibility: Research, design, and development of human-centered assistive wearable
@@ -47,26 +46,26 @@ mentoring, and research dissemination.
   * Job responsibility: 
   
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 
-Awards
-======
+## Awards
+
 *  Kanako Miura Award, HUMANOIDS 2022, Okinawa, Japan
 *  MEXT Scholarship 2019-2024, Japanese Government, Japan
   
   
-Service and leadership
-======
+## Service and leadership
+
 * [RoboSoft 2026] Art Gallery Co-Chair
 * [RO-MAN 2025] Session Co-Chair
 
-Skills
-======
+## Skills
+
 * Programming: Python, C/C++, C#
 * Vision & AI: OpenCV, machine vision, visual inspection, machine learning
 * Embedded & IoT: Arduino, ESP32, embedded systems, WiFi/Bluetooth/Infrared/Cellular
@@ -76,14 +75,14 @@ Skills
 * Control: fuzzy logic control, data acquisition
 * Other: QR/2D barcode systems, remote monitoring systems, basic engineering (drawings/controls/electronics/robotics)
 
-Talks
-======
+## Talks
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
