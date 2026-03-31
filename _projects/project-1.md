@@ -1,9 +1,10 @@
 ---
 title: "Musculoskeletal Robot"
-excerpt: "Design and investigation of bio-inspired musculoskeletal robotic systems with toe joints and compliant mechanisms to study locomotion, stability, and human-like movement.  <br/> <img src='/images/pneuturn.png'>"
+excerpt: "Design and investigation of bio-inspired musculoskeletal robotic systems with toe joints and compliant mechanisms to study locomotion, stability, and human-like movement. "
 collection: projects
 category: research
 ---
+
  <br/> <img src='/images/pneuturn.png'>
 
 - K. Nipatphonsakun, T. Kawasetsu, and K. Hosoda, “Intrinsic toe joint stabilization in foot-slip turning motion of musculoskeletal robot with DSP-SLIP model,” _Advanced Robotics_, vol. 38, no. 16, pp. 1153–1165, June 5, 2024, [DOI](https://doi.org/10.1080/01691864.2024.2362201).
