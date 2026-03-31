@@ -19,7 +19,7 @@ Work experience
 ======
 Research
 ------
-* Jan 2025 - : Postdoctoral Researcher
+* Jan 2025 - Present : Postdoctoral Researcher
   * Kanazawa University, Japan
   * Duties includes: Updates and improvements to template
   * Supervisor: Prof. Tetsuyou Watanabe
@@ -36,18 +36,19 @@ Industrial
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
+Awards
+======
+*  Kanako Miura Award, HUMANOIDS 2022, Okinawa, Japan
+*  MEXT Scholarship 2019-2024, Japanese Government, Japan
   
 Talks
 ======
@@ -63,4 +64,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* RoboSoft 2026 - Art Gallery Co-Chair
+* RO-MAN 2025 - Session Co-Chair
