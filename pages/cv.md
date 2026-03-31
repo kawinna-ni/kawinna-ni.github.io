@@ -22,7 +22,7 @@ sensing systems.
 * (Oct 2021 - Sep 2024) PhD in Engineering
 * (Oct 2019 - Sep 2021) Master of Engineering
   * Graduate School of Engineering Science, Department of Systems Innovation
-  * Advisor: Prof. Koh Hosoda, Adaptive Robotics Lab.
+  * Advisor: Prof. Koh Hosoda, [Adaptive Robotics Lab](https://arl.me.kyoto-u.ac.jp/).
 
 ### King Mongkut's University of Technology Thonburi, Thailand
 * (Aug 2013 - Jul 2017) Bachelor of Engineering in Mechatronics - 3.42 GPA
@@ -30,10 +30,10 @@ sensing systems.
 ## <ins>Work experience</ins>
 
 ### (Jan 2025 - Present) Postdoctoral Researcher, _Kanazawa University_, Japan
-  * Job responsibility: Research, design, and development of human-centered assistive wearable
+  * **Job responsibility:** Research, design, and development of human-centered assistive wearable
 robotic systems, including soft actuator prototyping, experimental evaluation, student
 mentoring, and research dissemination.
-  * Supervisor: Prof. Tetsuyou Watanabe, Human-Machine Innovation Lab.
+  * **Supervisor:** Prof. Tetsuyou Watanabe, [Human-Machine Innovation Lab](https://zkks.w3.kanazawa-u.ac.jp/).
 
 
 ## <ins>Publications</ins>
