@@ -17,6 +17,7 @@ Education
 
 Work experience
 ======
+
 Research
 ------
 * Jan 2025 - Present : Postdoctoral Researcher
