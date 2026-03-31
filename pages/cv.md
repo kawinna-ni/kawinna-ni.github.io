@@ -9,15 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-My goal
-======
+# My goal
+
 To develop human-centered assistive robotic technologies that support activities of daily living,
 leveraging experience in soft wearable robotics, bio-inspired mechanisms, and intelligent
 sensing systems.
 
 
-Education
-======
+# Education
 
 ### The University of Osaka, Japan
 * (Oct 2021 - Sep 2024) Ph.D in Engineering
@@ -28,25 +27,25 @@ Education
 ### King Mongkut's University of Technology Thonburi, Thailand
 * (Aug 2013 - Jul 2017) Bachelor of Engineering in Mechatronics - 3.42 GPA
 
-Work experience
+# Work experience
 ======
 
-Research
-------
-* Jan 2025 - Present : Postdoctoral Researcher
+## Research
+
+### Jan 2025 - Present : Postdoctoral Researcher
   * Kanazawa University, Japan
   * Job responsibility: Research, design, and development of human-centered assistive wearable
 robotic systems, including soft actuator prototyping, experimental evaluation, student
 mentoring, and research dissemination.
   * Supervisor: Prof. Tetsuyou Watanabe, Human-Machine Innovation Lab.
 
-Industrial
-------
-* Apr 2018 - Aug 2019: Automation Engineer
+## Industrial
+
+### Apr 2018 - Aug 2019: Automation Engineer
   * Siam Compressor Industry Co., Ltd., Thailand
   * Job responsibility: 
 
-* Aug 2017 - Mar 2018: Software/Automation Engineer
+### Aug 2017 - Mar 2018: Software/Automation Engineer
   * Sony Technology (Thailand) Co., Ltd., Thailand
   * Job responsibility: 
   
