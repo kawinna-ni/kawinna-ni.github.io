@@ -35,41 +35,41 @@
       }
     ]
   },
-  "work": [],
+  "work": [
 
    {
       "institution": "Kanazawa University",
       "area": "Postdoctoral Researcher",
-      "studyType": "",
+      "studyType": "Faculty of Frontier Engineering, Institute of Science and Engineering",
       "startDate": "2025",
       "endDate": "Present",
       "gpa": null,
       "courses": []
     }
-
+  ],
   "education": [
     {
       "institution": "The University of Osaka, Japan",
       "area": "PhD in Engineering",
-      "studyType": "",
+      "studyType": "Graduate School of Engineering Science, Department of Systems Innovation",
       "startDate": "Oct 2021",
       "endDate": "Sep 2024",
       "gpa": null,
-      "courses": [Graduate School of Engineering Science, Department of Systems Innovation]
+      "courses": []
     },
     {
       "institution": "The University of Osaka, Japan",
       "area": "Master of Engineering",
-      "studyType": "",
+      "studyType": "Graduate School of Engineering Science, Department of Systems Innovation",
       "startDate": "Oct 2019",
       "endDate": "Sep 2021",
       "gpa": null,
-      "courses": [Graduate School of Engineering Science, Department of Systems Innovation]
+      "courses": []
     },
     {
       "institution": "King Mongkut’s University of Technology Thonburi, Thailand",
       "area": "Bachelor of Engineering",
-      "studyType": "",
+      "studyType": "Faculty of Engineering, Department of Mechatronics Engineering",
       "startDate": "Aug 2013",
       "endDate": "Jul 2017",
       "gpa": 3.42,
