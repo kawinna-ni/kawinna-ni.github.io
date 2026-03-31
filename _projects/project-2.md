@@ -1,9 +1,11 @@
 ---
 title: "Shape-Changing Garment with Flat-Tube Fabric Actuator"
-excerpt: "Development of a soft wearable garment using flat-tube fabric actuators to enable controllable shape change for dressing assistance and adaptable support in daily living.  <br/> <img src='/images/flattube.png' width=70% >"
+excerpt: "Development of a soft wearable garment using flat-tube fabric actuators to enable controllable shape change for dressing assistance and adaptable support in daily living. "
 collection: projects
 category: research
 ---
+
+ <br/> <img src='/images/flattube.png'>
 
 - K. Nipatphonsakun, I. Hayashi, and T. Watanabe, “A garment‑integrated shape‑changing actuator for facilitating dressing,” _Research Square_ Preprint, Feb. 2026, under review. [DOI](https://doi.org/10.21203/rs.3.rs-8868195/v1).
 
