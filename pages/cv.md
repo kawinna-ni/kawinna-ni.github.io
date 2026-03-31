@@ -21,7 +21,7 @@ sensing systems.
   * **Job responsibility:** Research, design, and development of human-centered assistive wearable
 robotic systems, including soft actuator prototyping, experimental evaluation, student
 mentoring, and research dissemination.
-  * **Supervisor:** Prof. Tetsuyou Watanabe, [Human-Machine Innovation Lab](https://zkks.w3.kanazawa-u.ac.jp/).
+  * **Supervisor:** Prof. Tetsuyou Watanabe, _[Human-Machine Innovation Lab](https://zkks.w3.kanazawa-u.ac.jp/)_
 
 ## <ins>Education</ins>
 
@@ -29,7 +29,7 @@ mentoring, and research dissemination.
 * (Oct 2021 - Sep 2024) PhD in Engineering
 * (Oct 2019 - Sep 2021) Master of Engineering
   * Graduate School of Engineering Science, Department of Systems Innovation
-  * **Advisor:** Prof. Koh Hosoda, [Adaptive Robotics Lab](https://arl.me.kyoto-u.ac.jp/).
+  * **Advisor:** Prof. Koh Hosoda, _[Adaptive Robotics Lab](https://arl.me.kyoto-u.ac.jp/)_
 
 ### King Mongkut's University of Technology Thonburi, Thailand
 * (Aug 2013 - Jul 2017) Bachelor of Engineering in Mechatronics - 3.42 GPA
@@ -55,14 +55,14 @@ mentoring, and research dissemination.
 
 ## <ins>Skills</ins>
 
-* Programming: Python, C/C++, C#
-* Vision & AI: OpenCV, machine vision, visual inspection, machine learning
-* Embedded & IoT: Arduino, ESP32, embedded systems, WiFi/Bluetooth/Infrared/Cellular
-* Automation: factory automation, industrial IoT, predictive maintenance
-* Systems: system integration, API design, SQL databases
-* Sensors: IMU, ultrasonic, GPS, high-speed camera integration
-* Control: fuzzy logic control, data acquisition
-* Other: QR/2D barcode systems, remote monitoring systems, basic engineering (drawings/controls/electronics/robotics)
+* **Programming:** Python, C/C++, C#
+* **Vision & AI:** OpenCV, machine vision, visual inspection, machine learning
+* **Embedded & IoT:** Arduino, ESP32, embedded systems, WiFi/Bluetooth/Infrared/Cellular
+* **Automation:** factory automation, industrial IoT, predictive maintenance
+* **Systems:** system integration, API design, SQL databases
+* **Sensors:** IMU, ultrasonic, GPS, high-speed camera integration
+* **Control:** fuzzy logic control, data acquisition
+* **Other:** QR/2D barcode systems, remote monitoring systems, basic engineering (drawings/controls/electronics/robotics)
 
 
 ## Industrial Experience
