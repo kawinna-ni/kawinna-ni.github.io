@@ -1,62 +1,78 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Kawinna Nipatphonsakun",
+    "email": "kawinna.ni@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://kawinna-ni.github.io",
+    "summary": "Human-Centered Assistive Robotics Researcher",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Kanazawa",
+      "countryCode": "JP",
+      "region": "Ishikawa"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=eYe49soAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0001-5652-2180"
       },
       {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "network": "ResearchGate",
+        "username": "",
+        "url": "https://www.researchgate.net/profile/Kawinna-Nipatphonsakun"
+      },
+      {
+        "network": "Scopus",
+        "username": "",
+        "url": "https://www.scopus.com/authid/detail.uri?authorId=58593201800"
       }
     ]
   },
   "work": [],
+
+   {
+      "institution": "Kanazawa University",
+      "area": "Postdoctoral Researcher",
+      "studyType": "",
+      "startDate": "2025",
+      "endDate": "Present",
+      "gpa": null,
+      "courses": []
+    }
+
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "The University of Osaka, Japan",
+      "area": "PhD in Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "Oct 2021",
+      "endDate": "Sep 2024",
       "gpa": null,
-      "courses": []
+      "courses": [Graduate School of Engineering Science, Department of Systems Innovation]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "The University of Osaka, Japan",
+      "area": "Master of Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "Oct 2019",
+      "endDate": "Sep 2021",
       "gpa": null,
-      "courses": []
+      "courses": [Graduate School of Engineering Science, Department of Systems Innovation]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "King Mongkut’s University of Technology Thonburi, Thailand",
+      "area": "Bachelor of Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "startDate": "Aug 2013",
+      "endDate": "Jul 2017",
+      "gpa": 3.42,
       "courses": []
     }
   ],
