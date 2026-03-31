@@ -1,7 +1,7 @@
 ---
 title: "Intrinsic toe joint stabilization in foot-slip turning motion of musculoskeletal robot with DSP-SLIP model"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2024-advrob
 excerpt: 'Investigation of intrinsic toe joint stabilization in musculoskeletal robot slip-turning motion using a DSP-SLIP model.'
 date: 2024-06-05

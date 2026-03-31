@@ -1,7 +1,7 @@
 ---
 title: "The experimental investigation of foot slip-turning motion of the musculoskeletal robot on toe joints"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2023-frobt
 excerpt: 'Experimental investigation of slip-turning motion in a musculoskeletal robot, highlighting the role of toe joint compliance in achieving stable and controlled turning.'
 date: 2023-08-29
