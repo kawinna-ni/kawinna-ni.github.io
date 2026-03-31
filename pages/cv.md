@@ -32,8 +32,7 @@ sensing systems.
 
 ## Research
 
-### Jan 2025 - Present : Postdoctoral Researcher
-  * Kanazawa University, Japan
+### (Jan 2025 - Present) Postdoctoral Researcher, _Kanazawa University_, Japan
   * Job responsibility: Research, design, and development of human-centered assistive wearable
 robotic systems, including soft actuator prototyping, experimental evaluation, student
 mentoring, and research dissemination.
@@ -41,12 +40,10 @@ mentoring, and research dissemination.
 
 ## Industrial
 
-### Apr 2018 - Aug 2019: Automation Engineer
-  * Siam Compressor Industry Co., Ltd., Thailand
+### (Apr 2018 - Aug 2019) Automation Engineer, _Siam Compressor Industry Co., Ltd._, Thailand
   * Job responsibility: 
 
-### Aug 2017 - Mar 2018: Software/Automation Engineer
-  * Sony Technology (Thailand) Co., Ltd., Thailand
+### (Aug 2017 - Mar 2018) Software/Automation Engineer, _Sony Technology (Thailand) Co., Ltd._, Thailand
   * Job responsibility: 
   
 
