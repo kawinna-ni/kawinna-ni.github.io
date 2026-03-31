@@ -18,9 +18,15 @@ sensing systems.
 
 Education
 ======
-* Ph.D in Engineering, Department of Systems Innovation, Graduate School of Engineering Science, The University of Osaka, Japan, 2024
-* M.Eng. in Adaptive Robotics Lab, Department of Systems Innovation, Graduate School of Engineering Science, The University of Osaka, Japan, 2021 
-* B.Eng. in Mechatronic Engineering, Department of Mechatronics Engineering, Faculty of Engineering, King Mongkut's University of Technology Thonburi, Thailand, 2017
+
+### The University of Osaka, Japan
+* (Oct 2021 - Sep 2024) Ph.D in Engineering
+* (Oct 2019 - Sep 2021) Master of Engineering
+  * Graduate School of Engineering Science, Department of Systems Innovation
+  * Adaptive Robotics Lab
+
+### King Mongkut's University of Technology Thonburi, Thailand
+* (Aug 2013 - Jul 2017) Bachelor of Engineering in Mechatronics - 3.42 GPA
 
 Work experience
 ======
@@ -60,8 +66,8 @@ Awards
   
 Service and leadership
 ======
-* RoboSoft 2026 - Art Gallery Co-Chair
-* RO-MAN 2025 - Session Co-Chair
+* [RoboSoft 2026] Art Gallery Co-Chair
+* [RO-MAN 2025] Session Co-Chair
 
 Skills
 ======
