@@ -8,7 +8,7 @@ tags:
   - Art Gallery
 ---
 
-This time, I attended the 2026 IEEE RoboSoft Conference in Kanazawa, where I work, but with a twist. I was the Chair of the Art Gallery and part of the local organizing committee.
+This time, I attended the 2026 IEEE RoboSoft Conference in Kanazawa, where I work, but with a twist. I was the Chair of the [Art Gallery](https://www.robosoft2026.org/program/art-gallery/) and part of the local [organizing committee](https://www.robosoft2026.org/committee-members/).
 
 It was my first time doing this, and I was busy all day!
 
