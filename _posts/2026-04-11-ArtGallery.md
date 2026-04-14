@@ -24,6 +24,6 @@ It was a great success (at least for me). The reception hour was crowded, and I 
 
 And just like that - it ended.
 
-Cheers to the Art Gallery!
+_Cheers to the Art Gallery!_
 
 <img src='/images/2026ArtGallery4.jpg' width="80%">
