@@ -29,13 +29,13 @@ Projects
 
 ### Shape-Changing Garment with Flat-Tube Fabric Actuator (2025-)
 
-<img src='https://1drv.ms/i/c/8fdb81ef8eb9e673/IQS0NULyTvWHQKIre6qIewZQAVPGbmwbZuZbiG67RGtaNtE?width=2393&height=2009' width="50%">
+<img src='/images/flattube.png' width="50%">
 
 - [See publications >>](projects/project-2)
 
 ### Musculoskeletal Robot (2019-2024)
 
-<img src='https://1drv.ms/i/c/8fdb81ef8eb9e673/IQR10rpMpu8TToNqR5Zpspt6AR8SGvmMg4yp1agDW4Xh6ro?width=2198&height=1994' width="50%">
+<img src='/images/pneuturn.png' width="50%">
 
 - [See publications >>](projects/project-1)
 
