@@ -6,7 +6,7 @@ category: research
 date: 2019-10-01
 ---
 
- <br/> <img src='/images/pneuturn.png'>
+ <br/> <img src='https://1drv.ms/i/c/8fdb81ef8eb9e673/IQR10rpMpu8TToNqR5Zpspt6AR8SGvmMg4yp1agDW4Xh6ro?width=2198&height=1994'>
 
 - **K. Nipatphonsakun**, T. Kawasetsu, and K. Hosoda, “Intrinsic toe joint stabilization in foot-slip turning motion of musculoskeletal robot with DSP-SLIP model,” _Advanced Robotics_, vol. 38, no. 16, pp. 1153–1165, June 5, 2024, [DOI](https://doi.org/10.1080/01691864.2024.2362201).
 
