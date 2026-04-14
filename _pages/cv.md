@@ -48,7 +48,7 @@ mentoring, and research dissemination.
   
 ## <ins>Service and leadership</ins>
 
-* **RoboSoft 2026**, _Art Gallery Co-Chair_, Kanazawa, Japan
+* **RoboSoft 2026**, _Art Gallery Chair_, Kanazawa, Japan
 * **RO-MAN 2025**, _Session Co-Chair_, Eindhoven, Netherlands
 * **ICRA 2024**, _Student Volunteer_, Yokohama, Japan
 

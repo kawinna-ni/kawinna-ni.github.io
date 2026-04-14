@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2026-robosoft
 excerpt: 'Flat-tube soft actuator providing light-touch pelvic support for sit-to-stand assistance, improving motion stability and joint extension.'
-date: 2025-04-07
+date: 2026-04-07
 venue: '2026 IEEE 9th International Conference on Soft Robotics (RoboSoft)'
 #paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 citation: 'Y. Inaba, K. Nipatphonsakun, K. Kakegawa, T. Matsuda, S. Shimoda, and T. Watanabe, “Flat-Tube Bending and Compression Actuator for Light-Touch Sit-to-Stand Assistance,” in Proceedings of the 2026 IEEE 9th International Conference on Soft Robotics (RoboSoft), Kanazawa, Japan, Apr. 7–11, 2026.'
