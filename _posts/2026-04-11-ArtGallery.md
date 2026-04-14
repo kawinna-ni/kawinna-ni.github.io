@@ -1,5 +1,5 @@
 ---
-title: 'Went to Netherlands!'
+title: 'Behind the Scenes'
 date: 2026-04-11
 permalink: /posts/2026/04/ROBOSOFT/
 tags:
