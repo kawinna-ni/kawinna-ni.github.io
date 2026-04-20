@@ -1,7 +1,7 @@
 ---
-title: "(Domestic) 更衣動作自立支援のための剛性摩擦可変アクチュエータ付き衣服の評価"
+title: "更衣動作自立支援のための剛性摩擦可変アクチュエータ付き衣服の評価"
 collection: publications
-category: conferences
+category: domestics
 permalink: /publication/2025-sice-si
 excerpt: 'Garment with variable stiffness and friction actuator for assisting independent dressing.'
 date: 2025-12-11
