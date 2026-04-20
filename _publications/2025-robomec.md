@@ -1,7 +1,7 @@
 ---
-title: "Manually inflatable outfit for self-assistive dressing and undressing"
+title: "(Domestic) Manually inflatable outfit for self-assistive dressing and undressing"
 collection: publications
-category: domestics
+category: conferences
 permalink: /publication/2025-robomec
 excerpt: 'Manually inflated wearable assistive garment using flat tube actuators for adaptive dressing support.'
 date: 2025-06-04
