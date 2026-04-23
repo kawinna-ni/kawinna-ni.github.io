@@ -7,7 +7,6 @@ excerpt: 'Development of an IoT-based wheelchair integrating safety monitoring a
 date: 2017-10-01
 venue: 'Journal of Multidisciplinary Engineering Science Studies (JMESS)'
 paperurl: 'http://www.jmess.org/wp-content/uploads/2017/10/JMESSP13420418.pdf'
-bibtexurl: ''
 citation: 'K. Nipatphonsakun, A. Charoenchit, C. Klaw-om, and A. Prateepasen, "Application Of Internet Of Things for Safety-Integrated Wheelchair," in <i>Journal of Multidisciplinary Engineering Science Studies (JMESS)</i>, 2017.'
 ---
 
