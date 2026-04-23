@@ -15,14 +15,12 @@ Prior to academia, I worked in factory automation and smart manufacturing, devel
 
 Research Interests
 ======
-- Soft Robotics
-- Soft Actuators
-- Wearable Robotics
-- Assistive Devices
+- Soft Robotics/Soft Actuators
+- Wearable Robotics/Assistive Devices
 - Pneumatic Artificial Muscles
+- Biomechanics/Biomimetics
 - Humanoid Robots
 - Bipedal Locomotion
-- Biomimetics
 
 Latest News
 ------
