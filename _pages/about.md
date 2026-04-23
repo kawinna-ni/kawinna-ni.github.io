@@ -35,6 +35,10 @@ Latest News
 - 2025/06/06 [Poster presentation at the _2025 JSME Conference on Robotics and Mechatronics (ROBOMECH)_](/publication/2025-robomec)
 - 2025/03/07 [Exhibited research at _Moonshot Symposium 2025, held at Miraikan (National Museum of Emerging Science and Innovation), Tokyo_](https://www.jst.go.jp/moonshot/sympo/20250307/index.html)
 
+| 2025/08/04  | [Exhibited research at _Moonshot Park, Future Life Village (FLV), Expo 2025 Osaka-Kansai_](https://www8.cao.go.jp/cstp/moonshot/expo2025/exhibition.html)                                                          |
+| 2025/06/06  | [Poster presentation at the _2025 JSME Conference on Robotics and Mechatronics (ROBOMECH)_](/publication/2025-robomec)                                                                                              |
+| 2025/03/07  | [Exhibited research at _Moonshot Symposium 2025, held at Miraikan (National Museum of Emerging Science and Innovation), Tokyo_](https://www.jst.go.jp/moonshot/sympo/20250307/index.html)                         |
+
 
 Projects
 ------
