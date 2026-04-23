@@ -27,7 +27,6 @@ Research Interests
 Latest News
 ------
 
-| Date        | Detail                                                                                                                                                    |
 | --------    | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2026/04/10  | [Co-authored work presented at _IEEE RoboSoft 2026_](/publication/2026-robosoft)                                                                          |
 | 2026/04/07  | [First time serving as Organizing Committee Member at _IEEE RoboSoft 2026_](/posts/2026/04/ROBOSOFT/)                                                     |
