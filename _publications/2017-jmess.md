@@ -1,5 +1,5 @@
 ---
-title: "Application Of Internet Of Things for Safety-Integrated Wheelchair"
+title: "Application Of Internet Of Things (Applied to Wheelchair for Monitoring and Security Purpose)"
 collection: publications
 category: others
 permalink: /publication/2017-jmess
