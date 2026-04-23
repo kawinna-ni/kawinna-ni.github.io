@@ -7,7 +7,7 @@ excerpt: 'Investigation of intrinsic toe joint stabilization in musculoskeletal 
 date: 2024-06-05
 venue: 'Advanced Robotics'
 #slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-#paperurl: 'https://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://www.tandfonline.com/doi/epdf/10.1080/01691864.2024.2362201?needAccess=true'
 #bibtexurl: 'https://public-pages-files-2025.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1187297/bibTex'
 citation: 'K. Nipatphonsakun, T. Kawasetsu, and K. Hosoda, &quot;Intrinsic toe joint stabilization in foot-slip turning motion of musculoskeletal robot with DSP-SLIP model,&quot; <i>Advanced Robotics</i>, vol. 38, no. 16, pp. 1153–1165, June 5, 2024, doi: 10.1080/01691864.2024.2362201'
 ---
