@@ -24,6 +24,18 @@ Research Interests
 - Bipedal Locomotion
 - Biomimetics
 
+Latest News
+======
+- [2026/4/10 Co-authored work presented at _IEEE RoboSoft 2026_](/publication/2026-robosoft)
+- [2026/4/7 First time serving as Organizing Committee Member at _IEEE RoboSoft 2026_](/posts/2026/04/ROBOSOFT/)
+- [2026/3/31 Launched personal academic webpage](/posts/2026/03/Released/)
+- [2025/8/27 Presented a paper at _IEEE RO-MAN 2025_](/publication/2025-roman)
+- [2025/8/25 Went to Eindhoven, the Netherlands](/posts/2025/08/ROMAN/)
+- [2025/8/4 Exhibited research at _Moonshot Park, Future Life Village (FLV), Expo 2025 Osaka-Kansai_](https://www8.cao.go.jp/cstp/moonshot/expo2025/exhibition.html)
+- [2025/6/6 Poster presentation at the _2025 JSME Conference on Robotics and Mechatronics (ROBOMECH)_](/publication/2025-robomec)
+- [2025/3/7 Exhibited research at _Moonshot Symposium 2025, held at Miraikan (National Museum of Emerging Science and Innovation), Tokyo_](https://www.jst.go.jp/moonshot/sympo/20250307/index.html)
+
+
 Projects
 ------
 
