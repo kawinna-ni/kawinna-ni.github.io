@@ -6,7 +6,7 @@ permalink: /publication/2025-roman
 excerpt: 'Flat tube bending actuator enabling controllable shape-changing garments for wearable robotics applications.'
 date: 2025-08-25
 venue: '2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)'
-#paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/11217668'
 citation: 'K. Nipatphonsakun, I. Hayashi and T. Watanabe, &quot;Flat Tube Bending Actuator for Shape-Changing Wearable Technology,&quot; <i>2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)</i> Eindhoven, Netherlands, 2025, pp. 1845-1850, doi: 10.1109/RO-MAN63969.2025.11217668'
 ---
 
