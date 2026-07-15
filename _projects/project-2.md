@@ -8,7 +8,7 @@ date: 2025-01-01
 
  <br/> <img src='/images/flattube.png'>
 
-- **K. Nipatphonsakun**, I. Hayashi, and T. Watanabe, “A garment‑integrated shape‑changing actuator for facilitating dressing,” _Research Square_ Preprint, Feb. 2026, under review. [DOI](https://doi.org/10.21203/rs.3.rs-8868195/v1).
+- **K. Nipatphonsakun**, I. Hayashi, and T. Watanabe, “A Garment-Integrated Shape-Changing Actuator for Facilitating Dressing,” _Scientific Reports_, Feb. 2026, Accepted. [DOI](https://doi.org/10.21203/rs.3.rs-8868195/v1).
 
 - Y. Inaba, **K. Nipatphonsakun**, K. Kakegawa, T. Matsuda, S. Shimoda, and T. Watanabe, “Flat-Tube Bending and Compression Actuator for Light-Touch Sit-to-Stand Assistance,” _2026 IEEE 9th International Conference on Soft Robotics (RoboSoft)_, Kanazawa, Japan, Apr. 7–11, 2026.
 
