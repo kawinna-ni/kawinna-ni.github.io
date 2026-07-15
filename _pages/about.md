@@ -27,12 +27,12 @@ Latest News
 
 | --------    | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2026/07/10  | [Presented a paper at _IEEE/ASME AIM 2026_](/publication/2026-aim)                                                                          |
-| 2026/07/01  | [Our paper was accepted at _Scientific Reports_!](/publication/2026-scirep)                                                                          |
+| 2026/07/01  | [Our paper was accepted at _Scientific Reports_](/publication/2026-scirep)                                                                          |
 | 2026/04/10  | [Co-authored work presented at _IEEE RoboSoft 2026_](/publication/2026-robosoft)                                                                          |
 | 2026/04/07  | [First time serving as Organizing Committee Member at _IEEE RoboSoft 2026_](/posts/2026/04/ROBOSOFT/)                                                     |
-| 2026/03/31  | [Launched personal academic webpage](/posts/2026/03/Released/)                                                                                            |
+| 2026/03/31  | [Launched personal academic webpage](/posts/2026/03/Released/)                                                                    |
 | 2025/08/27  | [Presented a paper at _IEEE RO-MAN 2025_](/publication/2025-roman)                                                                                        |
-| 2025/08/25  | [Went to Eindhoven, the Netherlands](/posts/2025/08/ROMAN/)                                                                                               |
+| 2025/08/25  | [Went to Eindhoven, the Netherlands](/posts/2025/08/ROMAN/)                                                                       |
 | 2025/08/04  | [Exhibited research at _Moonshot Park, Future Life Village (FLV), Expo 2025 Osaka-Kansai_](https://www8.cao.go.jp/cstp/moonshot/expo2025/exhibition.html) |
 | 2025/06/06  | [Poster presentation at the _2025 JSME Conference on Robotics and Mechatronics (ROBOMECH)_](/publication/2025-robomec)                                    |
 | 2025/03/07  | [Exhibited research at _Moonshot Symposium 2025, held at Miraikan, Tokyo_](https://www.jst.go.jp/moonshot/sympo/20250307/index.html)                      |
@@ -41,7 +41,7 @@ Latest News
 Projects
 ------
 
-### Shape-Changing Garment with Flat-Tube Fabric Actuator (2025-)
+### Shape-Changing Garment with Flat-Tube Fabric Actuator (2025-2026)
 
 <img src='/images/flattube.png' width="50%">
 
@@ -52,6 +52,10 @@ Projects
 <img src='/images/pneuturn.png' width="50%">
 
 - [See publications >>](projects/project-1)
+
+### Other Works
+
+- [See publications >>](projects/project-etc)
 
 ### Machine Vision, Automation & Mechatronics (2017-2019) 
 
