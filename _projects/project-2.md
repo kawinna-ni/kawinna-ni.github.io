@@ -10,7 +10,7 @@ date: 2025-01-01
 
 - **K. Nipatphonsakun**, I. Hayashi, and T. Watanabe, “A Garment-Integrated Shape-Changing Actuator for Facilitating Dressing,” _Scientific Reports_, Feb. 2026, Accepted. [DOI](https://doi.org/10.21203/rs.3.rs-8868195/v1).
 
-- Y. Inaba, **K. Nipatphonsakun**, K. Kakegawa, T. Matsuda, S. Shimoda, and T. Watanabe, “Flat-Tube Bending and Compression Actuator for Light-Touch Sit-to-Stand Assistance,” _2026 IEEE 9th International Conference on Soft Robotics (RoboSoft)_, Kanazawa, Japan, Apr. 7–11, 2026.
+- Y. Inaba, **K. Nipatphonsakun**, K. Kakegawa, T. Matsuda, S. Shimoda, and T. Watanabe, “Flat-Tube Bending and Compression Actuator for Light-Touch Sit-to-Stand Assistance,” _2026 IEEE 9th International Conference on Soft Robotics (RoboSoft)_, Kanazawa, Japan, 2026, pp. 899-906, [DOI](https://doi.org/10.1109/RoboSoft67810.2026.11522839).
 
 - **K. Nipatphonsakun**, I. Hayashi and T. Watanabe, "Flat Tube Bending Actuator for Shape-Changing Wearable Technology," _2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)_, Eindhoven, Netherlands, 2025, pp. 1845–1850, [DOI](https://doi.org/10.1109/RO-MAN63969.2025.11217668).
 
