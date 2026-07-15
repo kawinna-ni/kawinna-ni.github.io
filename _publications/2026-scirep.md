@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2026-scirep
 excerpt: 'Garment-integrated soft actuators maintain clothing geometry to facilitate dressing for individuals with upper-limb motor impairments.'
 date: 2026-07-31
-venue: '2026 IEEE 9th International Conference on Soft Robotics (RoboSoft)'
+venue: 'Scientific Reports'
 #paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 #bibtexurl: 'https://public-pages-files-2025.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1187297/bibTex'
 citation: 'K. Nipatphonsakun, I. Hayashi, and T. Watanabe,  &quot;A Garment-Integrated Shape-Changing Actuator for Facilitating Dressing,&quot; <i>Scientific Reports</i>, vol. , no. , pp. –, July, 2026, doi: '
